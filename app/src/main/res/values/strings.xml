@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SurfaceViewAnimation</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- List for the spinner names -->
+    <string-array name="ParameterList">
+        <item>Balls</item>
+        <item>Velocity</item>
+        <item>Radius</item>
+    </string-array>
+</resources>
